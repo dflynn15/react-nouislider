@@ -28,7 +28,7 @@
     "url": "https://github.com/algolia/react-nouislider/issues"
   },
   "peerDependencies": {
-    "react": "^0.14.0"
+    "react": "^15.0.1"
   },
   "homepage": "https://github.com/algolia/react-nouislider",
   "dependencies": {
@@ -45,7 +45,7 @@
     "eslint-plugin-algolia": "^1.5.0",
     "eslint-plugin-react": "^3.16.1",
     "npm-shrinkwrap": "^200.4.0",
-    "react-dom": "^0.14.0",
+    "react-dom": "^15.0.1",
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.12.1"
   }
